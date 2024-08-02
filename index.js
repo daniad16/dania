@@ -13,4 +13,4 @@ app.get('/', (req, res)=> {
   res.send(data)
 })
 
-app.listen(1234)
+app.listen(3000)
